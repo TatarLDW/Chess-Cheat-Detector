@@ -6,6 +6,12 @@
 
 > Detect engine assistance in chess games with Stockfish analysis and comprehensive visualizations
 
+# 👋 Hi, I'm TatarLDW
+
+## 🔧 Chess Cheating Detection System Developer
+
+I built a powerful chess cheating detection system that helps players identify engine assistance.
+
 ## ✨ Features
 
 - 🔍 **Deep move analysis** - Accuracy, centipawn loss, engine correlation
@@ -29,3 +35,14 @@ python deep_analysis_report.py games.pgn --player "Username"
 
 # Generate visualization
 python detailed_viz.py --player "Username"
+
+### 📫 Contact Me
+- **Email**: tatarchess@gmail.com
+- **Discord**: tatarldw
+- **Instagram**: @TatarLDW
+
+### 💬 Need Help?
+If you suspect cheating in your chess games and are inexperienced in python:
+1. Send me their Chess.com username
+2. I'll run the analysis for you
+3. I'll send back a detailed report
