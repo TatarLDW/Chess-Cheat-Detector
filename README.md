@@ -35,6 +35,7 @@ python deep_analysis_report.py games.pgn --player "Username"
 
 # Generate visualization
 python detailed_viz.py --player "Username"
+```
 
 ### 📫 Contact Me
 - **Email**: tatarchess@gmail.com
