@@ -63,8 +63,8 @@ Configuration
 Create config.py to set defaults:
 
 python
-STOCKFISH_PATH = "stockfish/stockfish-windows-x86-64-avx2.exe"
-DEFAULT_PLAYER = "YourUsername"
+STOCKFISH_PATH = "stockfish.exe"
+DEFAULT_PLAYER = "USERNAME"
 Understanding Results
 Suspicion Score (0-1)
 >0.8: Very High - Strong evidence of engine assistance
