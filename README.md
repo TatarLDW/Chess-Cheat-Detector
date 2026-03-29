@@ -40,7 +40,7 @@ python detailed_viz.py --player "Username"
 ### 📫 Contact Me
 - **Email**: tatarchess@gmail.com
 - **Discord**: tatarldw
-- **Instagram**: @TatarLDW
+- **Instagram**: @tatarldw
 
 ### 💬 Need Help?
 If you suspect cheating in your chess games and are inexperienced in python:
